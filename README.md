@@ -76,7 +76,7 @@ git clone https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App.git
       CREATE USER pks WITH PASSWORD 'abc123!';
       ```
    
-4. **Run Migrations**
+4. **Run Migrations** IMPORANT!!!
 
 ```sh
 python manage.py makemigrations

@@ -1,4 +1,4 @@
-#!/Volumes/Others/mli/go/src/github.com/ftntming/Real-Estate-Django-Web-App/myenv/bin/python3
+#!/Volumes/Others/mli/go/src/github.com/ftntming/Real-Estate-Django-Web-App/myenv/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

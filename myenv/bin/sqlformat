@@ -1,4 +1,4 @@
-#!/Volumes/Others/mli/go/src/github.com/ftntming/Real-Estate-Django-Web-App/myenv/bin/python3
+#!/Volumes/Others/mli/go/src/github.com/ftntming/Real-Estate-Django-Web-App/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
